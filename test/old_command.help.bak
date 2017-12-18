@@ -1,3 +1,4 @@
+describe('help')
 var program = require('../')
   , sinon = require('sinon').sandbox.create()
   , should = require('should');
